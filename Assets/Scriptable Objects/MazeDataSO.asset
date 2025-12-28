@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8488849930072a42bc0ef814e37f3a8, type: 3}
+  m_Name: MazeDataSO
+  m_EditorClassIdentifier: 
+  GirdData:
+    gridType: 0
+    rows: 20
+    cols: 20
+    origin: {x: 0, y: 0, z: 0}
+    gap: 0
+    squareCellSize: 1
+    hexRadius: 0.6
+    hexRowParity: 0
+    invertRCtoXZ: 1
+  cellPrefab: {fileID: 1448409950019591183, guid: f7ddde93a33a106479555476467195a6, type: 3}
+  agentPrefab: {fileID: 6337958308739363663, guid: 4bc453272c73114438b5eda415498d48, type: 3}

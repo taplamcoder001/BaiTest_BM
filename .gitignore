@@ -1,0 +1,42 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+xs/
+
+# Asset store tools (optional)
+AssetStoreTools*
+
+# IDE project files
+*.csproj
+*.sln
+*.unityproj
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.mdb
+*.svd
+*.opendb
+*.VC.db
+
+# Visual Studio / Rider
+.vscode/
+.idea/
+.vs/
+*.DotSettings
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Unity cloud build
+unitycloud/
+
+# Crash/error logs
+sysinfo.txt
